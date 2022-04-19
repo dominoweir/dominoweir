@@ -2,7 +2,7 @@
 
 🌸 Yes, that is my real name!
 
-🍃 UI Engineer for MongoDB University
+🍃 UI Engineer for Kaggle
 
 👀 I’m interested in ...
 - Deaf tech
