@@ -8,8 +8,10 @@
 - Deaf tech
 - Online education
 - Web accessibility
+- Design systems
 
 📫 How to reach me ...
+
 [LinkedIn](https://www.linkedin.com/in/domino-weir/)
 
 <!---
