@@ -2,7 +2,7 @@
 
 🌸 Yes, that is my real name!
 
-👩🏼‍💻 UI Engineer for Kaggle
+👩🏼‍💻 UI Engineer and Tech Lead for Kaggle
 
 👀 I’m interested in ...
 - Deaf tech
@@ -10,7 +10,7 @@
 - Web accessibility
 
 📫 How to reach me ...
-dominoweir@gmail.com
+[LinkedIn](https://www.linkedin.com/in/domino-weir/)
 
 <!---
 dominoweir/dominoweir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
