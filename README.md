@@ -13,7 +13,7 @@
 
 ✋ If you are having issues with Kaggle...
 - You will get help faster by reaching out to the team through our [official support channels](https://www.kaggle.com/contact)
-- Please do not contact me directly- reaching out to our support team is faster anyways.
+- Please do not contact me through my personal email
 
 📫 How to reach me...
 
