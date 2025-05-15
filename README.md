@@ -10,7 +10,12 @@
 - Web accessibility
 - Design systems
 
-📫 How to reach me ...
+
+✋ If you are having issues with Kaggle...
+- You will get help faster by reaching out to the team through our [official support channels](https://www.kaggle.com/contact)
+- Please do not contact me directly- reaching out to our support team is faster anyways.
+
+📫 How to reach me...
 
 [LinkedIn](https://www.linkedin.com/in/domino-weir/)
 
